@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Linux, Cyber Security, Pentest tools**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TGcsOc6fKMPf7P6AW-jbvg1CTJYszGJs/edit?usp=share_link&ouid=104680164172951371576&rtpof=true&sd=true](https://docs.google.com/document/d/1TGcsOc6fKMPf7P6AW-jbvg1CTJYszGJs/edit?usp=share_link&ouid=104680164172951371576&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit](https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit)
+
+- ⚡ Fun fact **I can sleep with my eyes closed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
