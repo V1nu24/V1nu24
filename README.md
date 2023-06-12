@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Coder, budding MERN stack developer, a Cybersecurity enthusiasts and a wanna be geek</h3>
 
 - 🌱 I’m currently learning **Linux, Cyber Security, Pentest tools**
+-  💬 Ask me about **C++,HTML,CSS,AWS**
+
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit](https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit)
 
