@@ -5,7 +5,8 @@
 - 💬 Ask me about **C++,HTML,CSS,AWS**
 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit](https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit)
+- 📄 Developer Resume [https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit](https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit)
+- 📄 CyberSecurity Resume [https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit](https://docs.google.com/document/d/1Kvloha8zDQNnV_k-o0ZpPokFID8U4bmy/edit)
 
 - ⚡ Fun fact **I can sleep with my eyes closed**
 
